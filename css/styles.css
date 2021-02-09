@@ -25,6 +25,10 @@ li {
   margin: 5px;
 }
 
+button:focus {
+  outline: 0;
+}
+
 .mobile{display: none;}
 
 .navbar-brand {
